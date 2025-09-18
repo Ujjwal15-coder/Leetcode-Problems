@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2047-find-a-peak-element-ii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Simulation
 |  |
 | ------- |
@@ -144,11 +146,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## String
 |  |
 | ------- |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
