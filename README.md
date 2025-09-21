@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0414-third-maximum-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Simulation
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
