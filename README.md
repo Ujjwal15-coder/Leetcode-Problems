@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
