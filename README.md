@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
+| [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0830-largest-triangle-area](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
