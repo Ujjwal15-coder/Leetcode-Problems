@@ -2,16 +2,16 @@ class Solution {
 public:
     int findMax(vector<int> &v) {
         int maxi = INT_MIN;
-        for (int x : v) {
-            maxi = max(maxi, x);
+        for (int i : v) {
+            maxi = max(maxi, i);
         }
         return maxi;
     }
 
     long long calculateHours(vector<int> &v, int hourly) {
         long long totalH = 0;
-        for (int x : v) {
-            totalH += (x + hourly - 1) / hourly; // integer ceiling division
+        for (int i : v) {
+            totalH += (i + hourly - 1) / hourly; // integer ceiling division
         }
         return totalH;
     } 
