@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2047-find-a-peak-element-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2047-find-a-peak-element-ii) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2737-row-with-maximum-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2737-row-with-maximum-ones) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
