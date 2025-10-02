@@ -7,11 +7,11 @@ public:
         int cnt_max = -1;
         int index = 0;
 
-        for(int i = 0; i < n;i++){
+        for(int i = 0; i <= n-1 ;i++){
 
             int cnt_ones = 0;
 
-            for(int j = 0; j < m; j++){
+            for(int j = 0; j <= m-1; j++){
                 cnt_ones += mat[i][j];
             }
 
