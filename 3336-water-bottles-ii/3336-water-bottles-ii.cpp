@@ -9,6 +9,7 @@ public:
             emptyBottles -= numExchange;
             emptyBottles++;
             numExchange++;
+
         }
         return result;
     }
