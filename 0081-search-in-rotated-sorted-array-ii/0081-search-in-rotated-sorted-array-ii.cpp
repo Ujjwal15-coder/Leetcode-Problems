@@ -1,12 +1,13 @@
 class Solution {
 public:
     bool search(vector<int>& nums, int target) {
+        int n = nums.size();
+        int low = 0, high = n - 1;
 
-        int low = 0,high = nums.size() - 1;
         while(low <= high){
-            int mid = (low+high)/2;
+            int mid = (low + high)/2;
 
-            if(nums[mid]==target) return true;
+            if(nums[mid] == target) return true;
 
             if(nums[low] == nums[mid] && nums[mid] == nums[high]){
                 low = low + 1;
@@ -24,7 +25,6 @@ public:
                 }
             }
             else{
-
                 if(nums[mid] < target && target <= nums[high]){
                     low = mid + 1;
                 }
@@ -34,6 +34,5 @@ public:
             }
         }
         return false;
-        
     }
 };
