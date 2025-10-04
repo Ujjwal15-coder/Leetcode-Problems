@@ -27,7 +27,6 @@ public:
             mini = min(mini,bloomDay[i]);
             maxi = max(maxi,bloomDay[i]);
         }
-        
         int low =  mini, high = maxi;
 
         while(low <= high)
