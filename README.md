@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
