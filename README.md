@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0045-jump-game-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0046-permutations) |
