@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [1013-fibonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
