@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1619-path-crossing) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Interactive
 |  |
