@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<string> commonChars(vector<string>& words) {
-        vector<int> freq(26,1000);
+        vector<int> freq(26,INT_MAX);
         for(string w:words){
             vector<int> cnt(26,0);
             for(char ch:w){
