@@ -13,8 +13,9 @@ public:
         }
         vector<string> result;
         for(int i = 0; i < 26;i++){
-            while(freq[i] --> 0){
+            while(freq[i] > 0){
                 result.push_back(string(1,i+'a'));
+                freq[i] = freq[i] - 1;
             }
         }
      return result;
