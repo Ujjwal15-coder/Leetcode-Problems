@@ -1,15 +1,10 @@
 class Solution {
 public:
     bool checkIfPangram(string sentence) {
-            vector<int> freq(26,0);
-            for(char c:sentence){
-                freq[c -'a']++;
+        set<char> st;
+        for(char c:sentence){
+            st.insert(c);
         }
-        for(int i = 0;i < 26;i++){
-            if(freq[i] == 0)
-            return false;
-        }
-         return true;
+        return st.size() == 26;
     }
-       
 };
