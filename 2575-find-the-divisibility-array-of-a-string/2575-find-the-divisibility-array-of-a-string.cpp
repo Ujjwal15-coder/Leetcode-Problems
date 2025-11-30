@@ -1,9 +1,10 @@
 class Solution {
 public:
     vector<int> divisibilityArray(string word, int m) {
-        vector<int> div(word.size());
+        int n = word.size();
+        vector<int> div(n);
         long long prevRemainder = 0;
-        for(int i = 0; i < word.size(); i++)
+        for(int i = 0; i < n; i++)
         {   
             int digit =  word[i]-'0';
             long long result = (prevRemainder * 10 + digit) % m;
