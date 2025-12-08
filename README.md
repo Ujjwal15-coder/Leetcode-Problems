@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1534-count-good-triplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1534-count-good-triplets) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1590-make-sum-divisible-by-p) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1925-count-square-sum-triples) |
 | [3221-find-the-peaks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3221-find-the-peaks) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
