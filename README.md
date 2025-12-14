@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0830-largest-triangle-area](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
+| [1006-clumsy-factorial](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1006-clumsy-factorial) |
 | [1013-fibonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1006-clumsy-factorial](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1006-clumsy-factorial) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Matrix
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
+| [1006-clumsy-factorial](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1006-clumsy-factorial) |
 | [1642-water-bottles](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1642-water-bottles) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
