@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [1995-count-special-quadruplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1995-count-special-quadruplets) |
 | [2047-find-a-peak-element-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1619-path-crossing](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1619-path-crossing) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1995-count-special-quadruplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1995-count-special-quadruplets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1925-count-square-sum-triples) |
+| [1995-count-special-quadruplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1995-count-special-quadruplets) |
 | [3221-find-the-peaks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3221-find-the-peaks) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Counting
