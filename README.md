@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1002-find-common-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
