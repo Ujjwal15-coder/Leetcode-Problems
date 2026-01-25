@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0713-subarray-product-less-than-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0792-binary-search) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0561-array-partition](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1903-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
@@ -501,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
