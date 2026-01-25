@@ -5,9 +5,11 @@ public:
         sort(nums.begin(),nums.end());
         int result = INT_MAX;
         int i = 0;
-        while(i <= n - k){
+        while(i < n ){
+
             result = min(result,nums[i+k-1] - nums[i]);
             i++;
+             if(i+k > n) break;
         }
         return result;
 
