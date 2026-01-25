@@ -6,10 +6,10 @@ public:
         int result = INT_MAX;
         int i = 0;
         while(i < n ){
+             if(i+k-1 >= n) break;
 
             result = min(result,nums[i+k-1] - nums[i]);
             i++;
-             if(i+k > n) break;
         }
         return result;
 
