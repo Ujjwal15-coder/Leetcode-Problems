@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
