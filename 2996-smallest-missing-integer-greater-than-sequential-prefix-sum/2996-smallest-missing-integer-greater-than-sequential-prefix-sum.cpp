@@ -14,10 +14,20 @@ public:
         }
 
 
-        unordered_set<int> st(nums.begin(),nums.end());
+        // unordered_set<int> st(nums.begin(),nums.end());
 
-        while(st.count(sum)){ // find smallest missing >= sum
-            sum++;
+        // while(st.count(sum)){ // find smallest missing >= sum
+        //     sum++;
+        // }
+        // return sum;
+
+
+
+        sort(nums.begin(),nums.end());
+        for(int i = 0;i < n; i++){
+            if(sum == nums[i]){
+                sum++;
+            }
         }
         return sum;
     }
