@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
