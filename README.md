@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
