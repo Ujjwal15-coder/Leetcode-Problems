@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1486-xor-operation-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1642-water-bottles) |
 | [1903-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1925-count-square-sum-triples) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0477-total-hamming-distance) |
+| [1486-xor-operation-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
