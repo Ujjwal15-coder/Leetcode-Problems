@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3640-trionic-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
 ## Stack
 |  |
 | ------- |
