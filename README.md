@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [1720-decode-xored-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1720-decode-xored-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-count-special-quadruplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1995-count-special-quadruplets) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0477-total-hamming-distance) |
 | [1486-xor-operation-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
