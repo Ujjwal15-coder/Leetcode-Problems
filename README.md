@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [3336-water-bottles-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3379-transformed-array) |
 ## Two Pointers
 |  |
 | ------- |
