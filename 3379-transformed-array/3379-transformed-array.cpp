@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> constructTransformedArray(vector<int>& nums) {
         int n = nums.size();
-        vector<int> result(n,0);
+        vector<int> result(n,0); //“Create a vector of size n, and fill every element with 0.”
         for(int i = 0; i < n; i++){
             int shift = nums[i]%n;
             int newIndex = (i + nums[i]) % n; 
