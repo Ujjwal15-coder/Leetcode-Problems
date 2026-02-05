@@ -5,10 +5,10 @@ public:
         vector<int> result(n,0);
         for(int i = 0; i < n; i++){
             int shift = nums[i]%n;
-            int newIndex = (i + nums[i]) % n;
+            int newIndex = (i + nums[i]) % n; 
 
             if(newIndex < 0){
-                newIndex += n;
+                newIndex += n; //handling negative value
             }
             result[i] = nums[newIndex];
         }
