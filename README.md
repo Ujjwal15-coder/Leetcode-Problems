@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0477-total-hamming-distance) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0401-binary-watch) |
 ## String Matching
 |  |
 | ------- |
