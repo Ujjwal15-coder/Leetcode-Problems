@@ -1,12 +1,9 @@
 class Solution {
 public:
     bool hasAlternatingBits(int n) {
-        bitset<32> b(n);
-        int highestBitSet = log2(n);
+        unsigned int result = n ^ (n >> 1);
 
-        for(int i = 0; i <=highestBitSet;i++){
-            if(b[i] == b[i+1]) return false;
-        }
-        return true;
+        return ((result & (result + 1)) == 0) ? true : false;
+        
     }
 };
