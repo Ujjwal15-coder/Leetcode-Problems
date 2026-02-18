@@ -9,7 +9,7 @@ public:
 
         for(int i = 1; i < n; i++){
             int incl = prev2 + nums[i];
-            int exclu = prev1;
+            int exclu = prev1 + 0;
             int ans = max(incl,exclu);
             prev2 = prev1;
             prev1 = ans;
