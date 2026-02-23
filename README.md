@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0983-minimum-cost-for-tickets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0983-minimum-cost-for-tickets) |
 | [1002-find-common-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0983-minimum-cost-for-tickets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
