@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0983-minimum-cost-for-tickets) |
 | [1002-find-common-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1185-find-in-mountain-array) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
