@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1720-decode-xored-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1720-decode-xored-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1824-minimum-sideway-jumps](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1824-minimum-sideway-jumps) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-concatenation-of-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1402-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [1824-minimum-sideway-jumps](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1824-minimum-sideway-jumps) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3640-trionic-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1402-reducing-dishes) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1824-minimum-sideway-jumps](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1824-minimum-sideway-jumps) |
 | [1903-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
