@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1388-pizza-with-3n-slices](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1402-reducing-dishes) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1388-pizza-with-3n-slices](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1402-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0860-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
+| [1388-pizza-with-3n-slices](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1402-reducing-dishes) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0794-swim-in-rising-water](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
+| [1388-pizza-with-3n-slices](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1388-pizza-with-3n-slices) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 ## Geometry
 |  |
