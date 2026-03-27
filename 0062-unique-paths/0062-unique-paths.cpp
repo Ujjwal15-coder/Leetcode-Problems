@@ -1,23 +1,27 @@
 class Solution {
 public:
-    int solveMem(int i,int j,int m,int n,vector<vector<int>>& dp){
-        if(i < 0 || i >= m || j < 0 || j >= n)
-         return 0;
+    int solveTab(int m, int n) {
+        vector<vector<int>> dp(m, vector<int>(n, 0));
 
-        if(i == m - 1 && j == n - 1)
-         return 1;
+        // Base case: destination cell
+        dp[m-1][n-1] = 1;
 
-        if(dp[i][j] != -1)
-         return dp[i][j];
+        for(int i = m - 1; i >= 0; i--) {
+            for(int j = n - 1; j >= 0; j--) {
 
-       int right = solveMem(i,j+1,m,n,dp);
-       int down = solveMem(i+1,j,m,n,dp);
+                if(i == m-1 && j == n-1) continue;
 
-       return dp[i][j] = right + down;
+                int right = (j + 1 < n) ? dp[i][j+1] : 0;
+                int down  = (i + 1 < m) ? dp[i+1][j] : 0;
+
+                dp[i][j] = right + down;
+            }
+        }
+
+        return dp[0][0];
     }
+
     int uniquePaths(int m, int n) {
-        vector<vector<int>> dp(m,vector<int> (n,-1));
-        return solveMem(0,0,m,n,dp);
-        
+        return solveTab(m, n);
     }
 };
