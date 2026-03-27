@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0198-house-robber) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Depth-First Search
