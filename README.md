@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0477-total-hamming-distance](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0493-reverse-pairs) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0983-minimum-cost-for-tickets) |
