@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
