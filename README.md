@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0279-perfect-squares) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0279-perfect-squares) |
@@ -708,13 +710,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Union-Find
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
