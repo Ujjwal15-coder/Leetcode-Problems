@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Stack
 |  |
 | ------- |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
 |  |
