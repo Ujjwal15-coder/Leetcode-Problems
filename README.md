@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0761-special-binary-string) |
