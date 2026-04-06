@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0830-largest-triangle-area](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0860-lemonade-change) |
+| [0874-walking-robot-simulation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
 | [0907-koko-eating-bananas](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [1006-clumsy-factorial](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1006-clumsy-factorial) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1642-water-bottles) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0874-walking-robot-simulation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [0888-fair-candy-swap](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1002-find-common-characters) |
