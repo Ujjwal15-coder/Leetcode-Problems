@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [1006-clumsy-factorial](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1006-clumsy-factorial) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 ## Sorting
