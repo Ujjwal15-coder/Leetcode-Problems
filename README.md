@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0761-special-binary-string) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3379-transformed-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Two Pointers
 |  |
 | ------- |
