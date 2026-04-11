@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3583-count-special-triplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3606-coupon-code-validator) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
