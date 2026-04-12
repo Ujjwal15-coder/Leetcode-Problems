@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1824-minimum-sideway-jumps) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2320-count-number-of-ways-to-place-houses) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2573-find-the-string-with-lcp](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Depth-First Search
 |  |
