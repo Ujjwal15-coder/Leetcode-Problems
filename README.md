@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1720-decode-xored-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1824-minimum-sideway-jumps](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1824-minimum-sideway-jumps) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-concatenation-of-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
