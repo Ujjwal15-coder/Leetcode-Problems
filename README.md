@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
+| [0754-reach-a-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0754-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [1006-clumsy-factorial](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1006-clumsy-factorial) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0754-reach-a-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0754-reach-a-number) |
 | [0792-binary-search](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
