@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0078-subsets) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
