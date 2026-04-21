@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1995-count-special-quadruplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1995-count-special-quadruplets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2573-find-the-string-with-lcp](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
