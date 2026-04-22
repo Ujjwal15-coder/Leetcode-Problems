@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0055-jump-game) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0072-edit-distance) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0509-fibonacci-number) |
