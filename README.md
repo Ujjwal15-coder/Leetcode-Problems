@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-count-special-quadruplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1995-count-special-quadruplets) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2573-find-the-string-with-lcp](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2737-row-with-maximum-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2737-row-with-maximum-ones) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
