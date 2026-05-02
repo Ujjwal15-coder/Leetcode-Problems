@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0754-reach-a-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0754-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [1006-clumsy-factorial](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1006-clumsy-factorial) |
 | [1013-fibonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1013-fibonacci-number) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0788-rotated-digits) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0978-longest-turbulent-subarray](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0978-longest-turbulent-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0983-minimum-cost-for-tickets) |
