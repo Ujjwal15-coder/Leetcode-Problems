@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3379-transformed-array) |
