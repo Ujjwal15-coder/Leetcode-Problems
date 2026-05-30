@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3336-water-bottles-ii) |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Depth-First Search
 |  |
