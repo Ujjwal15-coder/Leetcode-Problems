@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1642-water-bottles) |
 | [1903-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
