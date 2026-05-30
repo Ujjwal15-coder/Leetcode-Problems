@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3093-longest-common-suffix-queries) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3161-block-placement-queries](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3221-find-the-peaks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3161-block-placement-queries](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
@@ -324,10 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [3161-block-placement-queries](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [3161-block-placement-queries](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3161-block-placement-queries) |
 ## Merge Sort
 |  |
 | ------- |
