@@ -6,7 +6,7 @@ public:
         // int uniqueTypes = st.size();
         // int n = candyType.size()/2;
 
-        return min((int)st.size(),(int)candyType.size()/2);
+        return min((int)st.size(),(int)candyType.size()/2); //using direct c++
 
 
 
