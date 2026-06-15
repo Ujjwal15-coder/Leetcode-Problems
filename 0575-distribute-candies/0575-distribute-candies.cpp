@@ -4,9 +4,9 @@ public:
         unordered_set<int> st(candyType.begin(),candyType.end());
 
         // int uniqueTypes = st.size();
-        int n = candyType.size()/2;
+        // int n = candyType.size()/2;
 
-        return min((int)st.size(),n);
+        return min((int)st.size(),(int)candyType.size()/2);
 
 
 
