@@ -45,10 +45,12 @@ public:
         for(int i = 0; i < n;i++){
 
             if(i % 2 == 0){
-                nums[i] = temp[left--];
+                nums[i] = temp[left];
+                left--;
             }
             else{
-                nums[i] = temp[right--];
+                nums[i] = temp[right];
+                right--;
             }
         }
 
