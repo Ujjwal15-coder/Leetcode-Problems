@@ -17,15 +17,20 @@ public:
         // to maintain relative order
         vector<int> result;
 
-        for(int x : smaller){
-            result.push_back(x);
-        }
-        for(int y : middle){
-            result.push_back(y);
-        }
-        for(int z : high){
-            result.push_back(z);
-        }
+        // for(int x : smaller){
+        //     result.push_back(x);
+        // }
+        // for(int y : middle){
+        //     result.push_back(y);
+        // }
+        // for(int z : high){
+        //     result.push_back(z);
+        // }
+        result.insert(result.end(),smaller.begin(),smaller.end());
+        result.insert(result.end(),middle.begin(),middle.end());
+        result.insert(result.end(),high.begin(),high.end());
+
+
         return result;
     }
 };
