@@ -14,6 +14,7 @@ public:
                 high.push_back(num);
         
         }
+        // to maintain relative order
         vector<int> result;
 
         for(int x : smaller){
