@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1720-decode-xored-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1720-decode-xored-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1732-find-the-highest-altitude](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1824-minimum-sideway-jumps](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1824-minimum-sideway-jumps) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1590-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [2121-intervals-between-identical-elements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2121-intervals-between-identical-elements) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2615-sum-of-distances](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2615-sum-of-distances) |
