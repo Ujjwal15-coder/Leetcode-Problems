@@ -26,7 +26,10 @@ public:
         // for(int z : high){
         //     result.push_back(z);
         // }
-        result.insert(result.end(),smaller.begin(),smaller.end());
+        
+        result.insert(result.end(),smaller.begin(),smaller.end()); // result.end() --> where to start ...whether it is starting(begin) or .end()
+        // smaller.begin() --> start of range
+        // smaller.end() --> end of range
         result.insert(result.end(),middle.begin(),middle.end());
         result.insert(result.end(),high.begin(),high.end());
 
