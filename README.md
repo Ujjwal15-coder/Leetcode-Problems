@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0761-special-binary-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0761-special-binary-string) |
 | [0888-fair-candy-swap](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1340-jump-game-v) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
+| [0905-sort-array-by-parity](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
