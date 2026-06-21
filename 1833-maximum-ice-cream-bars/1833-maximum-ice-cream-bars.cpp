@@ -6,11 +6,11 @@ public:
         int sum = 0;
         int count = 0;
        
-        for(int cost : costs){
-            if(sum + cost > coins)
+        for(int i = 0; i < costs.size();i++){
+            if(sum + costs[i] > coins)
                 break;
 
-            sum += cost;
+            sum += costs[i];
             count++;
         }
         return count;
