@@ -8,7 +8,7 @@ public:
         if(nums[i] > 0){
             ans[positive] = nums[i];
             positive += 2;
-        }else{
+        }else if(nums[i] < 0){
             ans[negative] = nums[i];
             negative += 2;
         }
