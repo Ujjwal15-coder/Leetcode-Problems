@@ -11,12 +11,13 @@ public:
         int o = freq['o']/2;
         int n = freq['n'];
         
-    int smallest = min(b,a);
-    smallest = min(smallest,l);
-    smallest = min(smallest,o);
-    smallest = min(smallest,n);
+    // int smallest = min(b,a);
+    // smallest = min(smallest,l);
+    // smallest = min(smallest,o);
+    // smallest = min(smallest,n);
 
+    // return smallest;
 
-    return smallest;
+    return min({b,a,l,o,n}); //more simpler way
     }
 };
