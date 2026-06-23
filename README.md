@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1185-find-in-mountain-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1185-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1002-find-common-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1143-longest-common-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
