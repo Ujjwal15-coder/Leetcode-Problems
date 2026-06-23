@@ -1,28 +1,30 @@
 class Solution {
 public:
     int countCharacters(vector<string>& words, string chars) {
-        unordered_map<char,int> freq;
-        for(char ch: chars){
-            freq[ch]++;
+        vector<int> charCount(26,0);
+        for(char &ch:chars){
+            charCount[ch-'a']++;
         }
         int count = 0;
-        
+
         for(string word : words){
-            unordered_map<char,int> freqW;
-        
-        bool milgaya = true;
-        for(char ch:word){
-            
-            freqW[ch]++;
-        if(freqW[ch] > freq[ch]){
-            
+            vector<int> wordCount(26,0);
+
+            for(char ch : word){
+                wordCount[ch-'a']++;
+            }
+
+            bool milgaya = true;
+            for(int i = 0; i < 26;i++){
+            if(wordCount[i] > charCount[i]){
                 milgaya = false;
                 break;
-        }
-        }
-        
-        
-         if(milgaya) count += word.size();
+            }
+            }
+            
+            if(milgaya) 
+                count += word.size();
+            
         }
         return count;
     }
