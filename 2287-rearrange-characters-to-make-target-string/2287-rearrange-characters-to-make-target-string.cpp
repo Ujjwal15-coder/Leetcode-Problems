@@ -1,27 +1,25 @@
 class Solution {
 public:
     int rearrangeCharacters(string s, string target) {
-         unordered_map<char,int> freqS,freqT;
-        for(char ch : s){
-            freqS[ch]++;
+        vector<int> sCount(26,0);
+        for(char ch: s){
+            sCount[ch-'a']++;
         }
-        for(char st : target){
-            freqT[st]++;
+        vector<int> targetCount(26,0);
+        for(char ch : target){
+            targetCount[ch-'a']++;
         }
-        int ans = INT_MAX;
-        for(auto &it:freqT){
-            char character = it.first;
+        int count = INT_MAX;
+        for(int i = 0; i < 26; i++)
+        {
 
-            int available = freqS[character];
-            int required = it.second;
-
-            int count = available/required;
-
-            ans = min(ans,count);
-
+            if(targetCount[i] > 0)
+            { 
+            
+            count = min(count,sCount[i]/targetCount[i]);
+            }
+            
         }
-
-        return ans;
-        
+        return count;
     }
 };
