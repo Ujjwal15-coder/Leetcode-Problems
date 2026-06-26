@@ -9,10 +9,10 @@ public:
             for(int j = i; j < n; j++){
                 if(nums[j] == target)
                     count++;
-
-                    len = j - i + 1;
+                else
+                    count--;
             
-            if(2 *count > len) ans++;
+            if(count > 0) ans++;
             }
             
         }
