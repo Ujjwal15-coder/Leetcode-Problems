@@ -12,7 +12,7 @@ public:
 
                     len = j - i + 1;
             
-            if(count > len/2) ans++;
+            if(2 *count > len) ans++;
             }
             
         }
