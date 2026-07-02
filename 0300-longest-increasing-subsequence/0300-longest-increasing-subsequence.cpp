@@ -1,33 +1,19 @@
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
-
         vector<int> temp;
-
-        for (int num : nums) {
-
-            int left = 0;
-            int right = temp.size() - 1;
-
-            // Binary Search
-            while (left <= right) {
-                int mid = left + (right - left) / 2;
-
-                if (temp[mid] < num) {
-                    left = mid + 1;
-                } else {
-                    right = mid - 1;
-                }
+        temp.push_back(nums[0]);
+        for(int i = 1; i < nums.size();i++){
+            if(nums[i] > temp.back()){
+                temp.push_back(nums[i]);
             }
 
-            // left is the position where num should be placed
-            if (left == temp.size()) {
-                temp.push_back(num);
-            } else {
-                temp[left] = num;
+            else{
+                int ind = lower_bound(temp.begin(),temp.end(),nums[i]) - temp.begin();
+                temp[ind] = nums[i];
             }
         }
-
+        
         return temp.size();
     }
 };
