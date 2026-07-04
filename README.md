@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0575-distribute-candies) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
