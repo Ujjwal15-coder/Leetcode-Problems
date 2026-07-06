@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1288-remove-covered-intervals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1340-jump-game-v) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
