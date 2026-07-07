@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3830-find-closest-person) |
 ## Binary Search
