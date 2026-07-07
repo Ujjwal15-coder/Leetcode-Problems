@@ -1,20 +1,17 @@
 class Solution {
 public:
-    int solveMem(int n,vector<int> &dp){
-        if(n == 0)
+    int solveMem(int i,int n,vector<int> &dp){
+        if(i == n)
             return 1;
-        if(n == 1)
-            return 1;
-        if(dp[n] != -1)
-            return dp[n];
-
-        dp[n] = solveMem(n-1,dp) + solveMem(n-2,dp);
-        return dp[n];
-
+        if(i > n)
+            return 0;
+        if(dp[i] != -1)
+            return dp[i];
+        dp[i] = solveMem(i+1,n,dp) + solveMem(i + 2,n,dp);
+        return dp[i];
     }
-    
     int climbStairs(int n) {
         vector<int> dp(n+1,-1);
-        return solveMem(n,dp);
+        return solveMem(0,n,dp);
     }
 };
