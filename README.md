@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1006-clumsy-factorial](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1006-clumsy-factorial) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [1006-clumsy-factorial](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1006-clumsy-factorial) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
