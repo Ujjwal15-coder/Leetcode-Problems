@@ -1,19 +1,20 @@
 class Solution {
 public:
-    int solveMem(int i,vector<int> cost,vector<int>& dp){
+    int solveTab(vector<int> cost){
         int n = cost.size();
-        if(i >= n) return 0;
+        vector<int> dp(n+2);
+        dp[n] = 0;
+        dp[n+1] = 0;
 
-        if(dp[i] != -1)
-            return dp[i];
+        for(int i = n - 1; i >= 0; i--){
+            dp[i] = cost[i] + min(dp[i+1],dp[i+2]);
+        }
 
-        dp[i] = cost[i] + min(solveMem(i+1,cost,dp),solveMem(i+2,cost,dp));
-        return dp[i];
+        return min(dp[0],dp[1]);
     }
     int minCostClimbingStairs(vector<int>& cost) {
         int n = cost.size();
-        vector<int> dp(n,-1);
-        return min(solveMem(0,cost,dp),solveMem(1,cost,dp));
+        return solveTab(cost);
         
     }
 };
