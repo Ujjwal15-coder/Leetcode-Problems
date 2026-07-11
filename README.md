@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0682-baseball-game) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
