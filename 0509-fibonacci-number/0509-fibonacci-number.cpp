@@ -1,19 +1,19 @@
 class Solution {
 public:
-    int solveMem(int n,vector<int> &dp){
-        if(n == 0)
-            return 0;
-        if(n == 1)
-            return 1;
+
+    int solveMem(vector<int> &dp,int n){
+        if(n == 0) return 0;
+        if(n == 1) return 1;
+
         if(dp[n] != -1)
             return dp[n];
-
-        return dp[n] = solveMem(n-1,dp) + solveMem(n-2,dp);
-
+        dp[n] = solveMem(dp,n-1) + solveMem(dp,n-2);
+        
+        return dp[n];
     }
     int fib(int n) {
-       
+
        vector<int> dp(n+1,-1);
-       return solveMem(n,dp);
+       return solveMem(dp,n);
     }
 };
