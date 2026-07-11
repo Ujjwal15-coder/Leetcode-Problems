@@ -6,10 +6,9 @@ public:
 
         for(int i = 1; i < prices.size();i++){
             int diff = prices[i] - mini;
-            profit = max(profit,diff);
             mini = min(mini,prices[i]);
+            profit = max(profit,diff);
         }
         return profit;
-        
     }
 };
