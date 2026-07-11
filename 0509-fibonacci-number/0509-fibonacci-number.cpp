@@ -1,9 +1,7 @@
 class Solution {
 public:
 
-    int solveTab(vector<int> &dp){
-
-        int n = dp.size()-1;
+    int solveTab(vector<int> &dp,int n){
         if(n == 0) return 0;
         dp[0] = 0;
         dp[1] = 1;
@@ -15,6 +13,6 @@ public:
     }
     int fib(int n) {
         vector<int> dp(n+1);
-      return solveTab(dp);
+      return solveTab(dp,n);
     }
 };
