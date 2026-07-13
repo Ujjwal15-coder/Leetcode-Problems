@@ -8,8 +8,10 @@ public:
             for(int next = start + 1; next <= 9 ; next++){
                 num = num * 10 + next;
 
-                if(num >= low && num <= high)
-                    ans.push_back(num);
+                    if(num > high)
+                        break;
+                    if(num >= low)
+                        ans.push_back(num);
                 
             }
         }
