@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1006-clumsy-factorial](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1006-clumsy-factorial) |
@@ -1013,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0155-min-stack) |
 | [2069-walking-robot-simulation-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2069-walking-robot-simulation-ii) |
 ## Trie
 |  |
