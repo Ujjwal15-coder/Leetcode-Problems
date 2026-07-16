@@ -11,10 +11,9 @@ public:
             int b = nums[i];
             
             while(b != 0){
-
-                int rem = a % b;
-                a = b;
-                b = rem;
+            int temp = b;
+            b = a % b;
+            a = temp;
             }
 
                 ans.push_back(a);
@@ -31,10 +30,10 @@ public:
             int a = ans[i];
             int b = ans[j];
 
-            while(b != 0) {
-                int rem = a % b;
-                a = b;
-                b = rem;
+           while(b != 0){
+            int temp = b;
+            b = a % b;
+            a = temp;
             }
 
             sum += a;
