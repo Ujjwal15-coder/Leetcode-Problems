@@ -2,7 +2,7 @@ class Solution {
 public:
     long long gcdSum(vector<int>& nums) {
         int n = nums.size();
-        int maxi = INT_MIN;
+        int maxi = nums[0];
         vector<long long> ans;
         for(int i = 0 ; i < n; i++){
             maxi = max(maxi,nums[i]);
