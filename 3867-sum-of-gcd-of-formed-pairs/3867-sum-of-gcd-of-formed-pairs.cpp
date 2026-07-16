@@ -2,17 +2,17 @@ class Solution {
 public:
     long long gcdSum(vector<int>& nums) {
         int n = nums.size();
-        int maxi = nums[0];
+        long long maxi = nums[0];
         vector<long long> ans;
         for(int i = 0 ; i < n; i++){
-            maxi = max(maxi,nums[i]);
+            maxi = max(maxi,(long long)nums[i]);
         
-            int a = maxi;
-            int b = nums[i];
+            long long a = maxi;
+            long long b = nums[i];
             
             while(b != 0){
 
-                int rem = a % b;
+                long long rem = a % b;
                 a = b;
                 b = rem;
             }
