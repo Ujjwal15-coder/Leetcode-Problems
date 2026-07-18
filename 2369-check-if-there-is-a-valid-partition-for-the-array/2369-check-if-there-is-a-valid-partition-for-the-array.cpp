@@ -18,7 +18,7 @@ public:
             if(solveMem(i+3,nums,dp))
                 return dp[i] = true;
         }
-        if(i+2 < n && nums[i+1] == nums[i] +1 && nums[i+2] == nums[i] + 2)
+        if(i+2 < n && nums[i+1]-nums[i] == 1 && nums[i+2] - nums[i+1] == 1)
         {
             if(solveMem(i+3,nums,dp))
                 return dp[i]= true;
