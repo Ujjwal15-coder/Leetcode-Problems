@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1824-minimum-sideway-jumps) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2320-count-number-of-ways-to-place-houses) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
