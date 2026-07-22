@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0682-baseball-game) |
@@ -1044,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 | [2069-walking-robot-simulation-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2069-walking-robot-simulation-ii) |
 ## Trie
@@ -1062,5 +1064,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
