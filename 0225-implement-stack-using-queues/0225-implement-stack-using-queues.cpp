@@ -32,7 +32,14 @@ public:
     
     bool empty() {
         
-        return Q1.empty();
+        //return Q1.empty();
+
+        if(Q1.empty()){
+            return true;
+        }
+        else{
+            return false;
+        }
     }
 };
 
