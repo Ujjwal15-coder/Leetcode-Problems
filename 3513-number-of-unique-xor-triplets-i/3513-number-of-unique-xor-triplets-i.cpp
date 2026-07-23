@@ -8,9 +8,9 @@ public:
             return 2;
 
         int ans = 1;
-        while(ans <= n){
-            ans = ans * 2;
-        }
+        while(ans <= n){ //T.C -- > O(log n)
+            ans = ans << 1;
+            } //S.C --> O(1)
         return ans;
     }
 };
