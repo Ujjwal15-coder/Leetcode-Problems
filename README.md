@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3606-coupon-code-validator) |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3606-coupon-code-validator) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
@@ -1032,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Rolling Hash
 |  |
 | ------- |
