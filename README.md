@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -1005,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1922-count-good-numbers) |
@@ -1086,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1025-divisor-game) |
 ## Design
 |  |
