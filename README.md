@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3270-find-the-key-of-the-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3270-find-the-key-of-the-numbers) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3336-water-bottles-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -1092,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1025-divisor-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Design
 |  |
 | ------- |
