@@ -22,11 +22,8 @@ public:
         vector<vector<int>> dp(n,vector<int>(n,-1));
 
         int alice_Score = solveMem(0,n-1,piles,dp);
-        int Bob_Score = total_Score - alice_Score;
+        int bob_Score = total_Score - alice_Score;
 
-        if(n % 2 == 0)
-            return true;
-        else
-            return false;
+        return alice_Score >= bob_Score;
     }
 };
