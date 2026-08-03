@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1388-pizza-with-3n-slices](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1388-pizza-with-3n-slices) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1402-reducing-dishes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1340-jump-game-v](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1340-jump-game-v) |
 | [1388-pizza-with-3n-slices](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1101,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0486-predict-the-winner](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Design
 |  |
