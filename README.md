@@ -999,11 +999,13 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0279-perfect-squares) |
 | [0794-swim-in-rising-water](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 ## Union Find
@@ -1088,11 +1090,13 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Union-Find
 |  |
