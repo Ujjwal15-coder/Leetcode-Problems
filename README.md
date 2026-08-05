@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0344-reverse-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0316-remove-duplicate-letters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
