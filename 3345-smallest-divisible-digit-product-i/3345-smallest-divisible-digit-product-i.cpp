@@ -10,7 +10,7 @@ public:
             original /= 10;
         }
 
-           if(prod % t == 0 && prod >= original)
+           if(prod % t == 0)
             return n;
         
         n++;
@@ -18,3 +18,9 @@ public:
     
     }
 };
+
+/*  very important thing
+ 
+ while (condition) → keeps running while the condition is true; exits when it becomes false.
+
+ while (true) → runs forever unless you use break or return inside the loop. */
