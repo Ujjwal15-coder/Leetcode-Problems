@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3336-water-bottles-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3221-find-the-peaks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3221-find-the-peaks) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
