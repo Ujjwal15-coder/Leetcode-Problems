@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0162-find-peak-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -965,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0137-single-number-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -1094,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0096-unique-binary-search-trees](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -1101,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0096-unique-binary-search-trees](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Union-Find
 |  |
