@@ -29,9 +29,7 @@ public:
 
         int nodeDiam = height(root -> left) + height(root -> right);
 
-        int maxi = max(leftDiam,rightDiam);
-
-        return max(maxi,nodeDiam); 
+        return max(leftDiam,max(rightDiam,nodeDiam)); 
 
         
     }
