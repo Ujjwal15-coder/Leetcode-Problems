@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [2573-find-the-string-with-lcp](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -855,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -902,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
