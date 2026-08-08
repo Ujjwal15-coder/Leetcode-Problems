@@ -1010,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
@@ -1020,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0279-perfect-squares) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 ## Union Find
 |  |
@@ -1113,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0222-count-complete-tree-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -1126,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0222-count-complete-tree-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Union-Find
 |  |
