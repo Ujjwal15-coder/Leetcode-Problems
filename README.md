@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0888-fair-candy-swap](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0978-longest-turbulent-subarray](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0978-longest-turbulent-subarray) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0324-wiggle-sort-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0493-reverse-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0761-special-binary-string) |
+| [0912-sort-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0761-special-binary-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0761-special-binary-string) |
 | [0888-fair-candy-swap](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
@@ -915,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0794-swim-in-rising-water](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
+| [0912-sort-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1388-pizza-with-3n-slices](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1388-pizza-with-3n-slices) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
@@ -1102,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Rolling Hash
@@ -1201,4 +1207,12 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
