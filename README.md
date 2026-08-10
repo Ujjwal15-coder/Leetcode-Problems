@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
+| [1510-stone-game-iv](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1642-water-bottles](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1642-water-bottles) |
 | [1903-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1922-count-good-numbers) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1388-pizza-with-3n-slices](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1172,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0877-stone-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Design
 |  |
@@ -1219,4 +1222,20 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
