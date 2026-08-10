@@ -1,6 +1,6 @@
-class Solution {
+class Solution {  //tc -> O(n * sqrt(n))  //sc -> O(n)
 public:
-    bool solveRec(int n,vector<int> &dp){
+    bool solveMem(int n,vector<int> &dp){
 
         if(n == 0)
             return false;
@@ -10,7 +10,7 @@ public:
         }
         for(int k = 1; k * k <= n;k++){
 
-            if(solveRec(n - (k*k),dp) == false){
+            if(solveMem(n - (k*k),dp) == false){
                 return dp[n] = true;
                 }
         }
@@ -18,7 +18,7 @@ public:
     }
     bool winnerSquareGame(int n) {
         vector<int> dp(n+1,-1);
-        return solveRec(n,dp) == true;
+        return solveMem(n,dp) == true;
         
     }
 };
