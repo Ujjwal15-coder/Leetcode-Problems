@@ -1,24 +1,24 @@
 class Solution {
 public:
-    int solveTab(vector<int>& nums){
+    int solveRec(int i,vector<int> &nums,vector<int> &dp){
         int n = nums.size();
-        //  if (n == 0) return 0;
-        // if (n == 1) return nums[0];
-        int prev2 = 0;
-        int prev1 = nums[0];
+        if(i >= n)
+            return 0;
+        if(dp[i] != -1)
+            return dp[i];
 
-        for(int i = 1; i < n; i++){
-            int incl = prev2 + nums[i];
-            int exclu = prev1 + 0;
-            int ans = max(incl,exclu);
-            prev2 = prev1;
-            prev1 = ans;
-        }
-        return prev1;
+        int incl = nums[i] + solveRec(i+2,nums,dp);
+        int excl = solveRec(i+1,nums,dp);
+
+        int maxMoney = max(incl,excl);
+
+        return dp[i] = maxMoney;
     }
     int rob(vector<int>& nums) {
-        return solveTab(nums);
-
+        int n = nums.size();
+        vector<int> dp(n+1,-1);
+        int ans = solveRec(0,nums,dp);
+        return ans;
         
     }
 };
