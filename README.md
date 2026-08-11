@@ -821,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0131-palindrome-partitioning](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0383-ransom-note) |
@@ -1025,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0090-subsets-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0401-binary-watch) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## String Matching
@@ -1135,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0222-count-complete-tree-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1152,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0222-count-complete-tree-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
