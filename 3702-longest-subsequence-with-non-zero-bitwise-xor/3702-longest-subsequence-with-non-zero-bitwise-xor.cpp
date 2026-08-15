@@ -9,7 +9,7 @@ public:
             totalXOR ^= x;
 
             if(x != 0)
-                hasNoZero =  true;
+                hasNoZero = true;
         }
         if(!hasNoZero)
             return 0;
