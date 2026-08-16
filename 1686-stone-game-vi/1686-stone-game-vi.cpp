@@ -12,22 +12,20 @@ public:
         int aliceScore = 0;
         int bobScore = 0;
         for(int i = 0; i < stones.size();i++){
-
+            int index = stones[i].second;
             if(i % 2 == 0){
-                aliceScore += aliceValues[stones[i].second];
+                aliceScore += aliceValues[index];
             }
             else{
-                bobScore += bobValues[stones[i].second];
+                bobScore += bobValues[index];
             }
         }
-        if(aliceScore > bobScore)
+        if(aliceScore > bobScore) //alice wins
             return 1;
-        if(aliceScore < bobScore)
-            return -1;
+        if(bobScore > aliceScore)
+            return -1; //bob wins
         
-        return 0;
-
-
+        return 0; //draw 
         
     }
 };
