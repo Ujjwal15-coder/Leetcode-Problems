@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1598-crawler-log-folder](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1598-crawler-log-folder) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [1686-stone-game-vi](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1686-stone-game-vi) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1720-decode-xored-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1720-decode-xored-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1486-xor-operation-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1642-water-bottles](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1642-water-bottles) |
+| [1686-stone-game-vi](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1686-stone-game-vi) |
 | [1903-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1925-count-square-sum-triples) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1686-stone-game-vi](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1686-stone-game-vi) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -909,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1388-pizza-with-3n-slices](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1402-reducing-dishes) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1686-stone-game-vi](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1686-stone-game-vi) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1824-minimum-sideway-jumps](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1824-minimum-sideway-jumps) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -937,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0912-sort-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1388-pizza-with-3n-slices](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1388-pizza-with-3n-slices) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1686-stone-game-vi](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1686-stone-game-vi) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 ## Geometry
 |  |
@@ -1198,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1025-divisor-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Design
@@ -1250,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -1264,5 +1271,6 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
