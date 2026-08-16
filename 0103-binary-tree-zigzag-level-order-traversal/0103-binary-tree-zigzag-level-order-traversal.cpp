@@ -42,6 +42,7 @@ public:
 
             if(ans.size() % 2 == 1)
                 reverse(level.begin(),level.end());
+                
             ans.push_back(level);
         }
         return ans;
