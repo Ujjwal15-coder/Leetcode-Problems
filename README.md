@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
