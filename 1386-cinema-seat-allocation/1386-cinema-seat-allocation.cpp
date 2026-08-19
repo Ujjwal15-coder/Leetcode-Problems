@@ -4,7 +4,7 @@ public:
 
         unordered_map<int,unordered_set<int>> mp;
 
-        for(auto& reservedSeat : reservedSeats){
+        for(auto& reservedSeat : reservedSeats){ //O(N)
             int row = reservedSeat[0];
             int seat = reservedSeat[1];
 
@@ -12,9 +12,9 @@ public:
         }
         int result = (n - mp.size())*2;
 
-        for(auto& [row,bookedSeat]:mp){
+        for(auto& [row,bookedSeat]:mp){ // O(10^4)
 
-                auto isAvailable = [&](int seat){
+                auto isAvailable = [&](int seat){ //O(1)
                     return bookedSeat.find(seat) == bookedSeat.end();
                 };
 
