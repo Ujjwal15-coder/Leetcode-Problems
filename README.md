@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1386-cinema-seat-allocation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1388-pizza-with-3n-slices](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1388-pizza-with-3n-slices) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1402-reducing-dishes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1402-reducing-dishes) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1331-rank-transform-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1386-cinema-seat-allocation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1388-pizza-with-3n-slices](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1402-reducing-dishes) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -1017,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0868-binary-gap) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
