@@ -8,7 +8,7 @@ public:
         }
         int ans = 0;
         for(int i = 1; i <= n; i++){
-        ans += solveMem(i-1,dp) * solveMem(n - i,dp);
+        ans += solveMem(i-1,dp) * solveMem(n-i,dp);
         }
 
         return dp[n] = ans;
