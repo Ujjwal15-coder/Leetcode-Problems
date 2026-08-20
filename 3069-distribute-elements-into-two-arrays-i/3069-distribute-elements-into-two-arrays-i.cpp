@@ -16,7 +16,7 @@ public:
             }
          }
          vector<int> result = arr1;
-         result.insert(result.end(), arr2.begin(), arr2.end());
+         result.insert(result.end(), arr2.begin(), arr2.end()); //Take all elements from arr2 and insert them at the end of result.
 
          return result;
     }
