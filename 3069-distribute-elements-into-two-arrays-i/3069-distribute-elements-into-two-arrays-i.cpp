@@ -15,9 +15,10 @@ public:
                 arr2.push_back(nums[i]);
             }
          }
-         vector<int> result = arr1;
-         result.insert(result.end(), arr2.begin(), arr2.end()); //Take all elements from arr2 and insert them at the end of result.
+        //  vector<int> result = arr1;
+        //  result.insert(result.end(), arr2.begin(), arr2.end()); //Take all elements from arr2 and insert them at the end of result.
 
-         return result;
+         arr1.insert(arr1.end(),arr2.begin(),arr2.end());  //Take all elements from arr2 and insert them at the end of arr1.
+         return arr1;
     }
 };
