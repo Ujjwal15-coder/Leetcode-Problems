@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0084-largest-rectangle-in-histogram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
@@ -1051,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0100-same-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
@@ -1080,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0622-design-circular-queue) |
@@ -1166,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1186,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
