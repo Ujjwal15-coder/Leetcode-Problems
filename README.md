@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3033-modify-the-matrix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3033-modify-the-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3093-longest-common-suffix-queries) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [2551-apply-operations-to-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3336-water-bottles-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3379-transformed-array) |
