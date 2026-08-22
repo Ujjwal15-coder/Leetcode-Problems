@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
