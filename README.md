@@ -1293,4 +1293,12 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1510-stone-game-iv](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2029-stone-game-ix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
