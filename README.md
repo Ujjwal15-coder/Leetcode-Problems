@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0094-binary-tree-inorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
@@ -1061,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
@@ -1181,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1205,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
