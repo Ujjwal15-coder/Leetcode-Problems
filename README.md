@@ -1072,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0572-subtree-of-another-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0794-swim-in-rising-water](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
@@ -1087,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0279-perfect-squares](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0279-perfect-squares) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0794-swim-in-rising-water](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 ## Union Find
 |  |
@@ -1198,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0572-subtree-of-another-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -1225,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0572-subtree-of-another-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Union-Find
 |  |
@@ -1238,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0098-validate-binary-search-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Game Theory
 |  |
 | ------- |
