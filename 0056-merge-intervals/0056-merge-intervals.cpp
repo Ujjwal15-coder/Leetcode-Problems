@@ -2,14 +2,14 @@ class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         int n = intervals.size();
-        sort(intervals.begin(),intervals.end());
+        sort(intervals.begin(),intervals.end()); //O(n log n)
 
         int currStart = intervals[0][0];
         int currEnd = intervals[0][1];
 
         vector<vector<int>> ans;
 
-        for(int i = 1; i < n;i++){
+        for(int i = 1; i < n;i++){ //O(n)
             if(currEnd >= intervals[i][0]){
                 currEnd = max(currEnd,intervals[i][1]);
             }
@@ -25,3 +25,6 @@ public:
         return ans;
     }
 };
+
+//T.C -> O(n log n)
+//S.C -> O(n)
