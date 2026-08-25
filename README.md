@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3583-count-special-triplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3606-coupon-code-validator) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
