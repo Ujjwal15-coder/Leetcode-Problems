@@ -7,7 +7,7 @@ public:
         }
         for(int i = k; ;i+=k){
                 if(mp.find(i) != mp.end()){
-                continue;
+                    continue;
             }
              return i;
         }
