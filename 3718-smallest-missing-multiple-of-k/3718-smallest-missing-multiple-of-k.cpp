@@ -2,7 +2,6 @@ class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
         unordered_map<int,int> mp;
-        int ans;
         for(int x : nums){
             mp[x]++;
         }
