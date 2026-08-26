@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0118-pascals-triangle) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0049-group-anagrams](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0031-next-permutation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0189-rotate-array) |
