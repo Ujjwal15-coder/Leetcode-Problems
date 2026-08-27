@@ -11,21 +11,14 @@
  */
 class Solution {
 public:
-    int search(vector<int> &inorder,int left,int right,int val){
-        for(int i = left;i <= right;i++){
-            if(inorder[i] == val){   //O(n^2) worst case if root is at the end
-                return i;
-            }
-        }
-        return -1;
-    }
+    unordered_map<int,int> mp;
     TreeNode* helper(vector<int>& preorder, vector<int>& inorder,int &preIdx,int left,int right){
         if(left > right){
             return NULL;
         }
         TreeNode* root = new TreeNode(preorder[preIdx]);
 
-        int inorderIdx = search(inorder,left,right,preorder[preIdx]);
+        int inorderIdx = mp[preorder[preIdx]];
         preIdx++;
                                                                             //o(n)
         root -> left = helper(preorder,inorder,preIdx,left,inorderIdx-1);
@@ -36,6 +29,9 @@ public:
     } //S.C -> O(n)
 
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+        for(int i = 0; i < inorder.size();i++){
+            mp[inorder[i]] = i;
+        }
         int preIdx = 0;
         return helper(preorder,inorder,preIdx,0,inorder.size()-1);
     }
