@@ -13,7 +13,7 @@ class Solution {
 public:
     int search(vector<int> &inorder,int left,int right,int val){
         for(int i = left;i <= right;i++){
-            if(inorder[i] == val){
+            if(inorder[i] == val){   //O(n^2) worst case if root is at the end
                 return i;
             }
         }
@@ -27,13 +27,13 @@ public:
 
         int inorderIdx = search(inorder,left,right,preorder[preIdx]);
         preIdx++;
-
+                                                                            //o(n)
         root -> left = helper(preorder,inorder,preIdx,left,inorderIdx-1);
         root -> right = helper(preorder,inorder,preIdx,inorderIdx+1,right);
 
         return root;
 
-    }
+    } //S.C -> O(n)
 
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
         int preIdx = 0;
