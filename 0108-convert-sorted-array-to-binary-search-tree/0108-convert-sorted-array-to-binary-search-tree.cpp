@@ -17,6 +17,7 @@ public:
         }
 
         int mid = s+(e-s)/2;
+        
         TreeNode* root = new TreeNode(nums[mid]);
 
         root -> left = helper(nums,s,mid-1);
