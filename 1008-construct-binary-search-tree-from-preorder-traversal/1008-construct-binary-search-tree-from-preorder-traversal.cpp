@@ -12,7 +12,7 @@
 class Solution {
 public:
     unordered_map<int,int> mp;
-    TreeNode* helper(vector<int> &preorder,vector<int> &inorder,int &preIdx,int left,int right){
+    TreeNode* helper(vector<int> &preorder,vector<int> &inorder,int &preIdx,int left,int right){ //&preIdx -> same index ko all recursive calls mein share/update karne ke liye
         if(left > right){
             return NULL;
         }
@@ -29,6 +29,7 @@ public:
     TreeNode* bstFromPreorder(vector<int>& preorder) {
         vector<int> inorder = preorder;
         sort(inorder.begin(),inorder.end());
+
         int preIdx = 0;
         for(int i = 0; i < inorder.size();i++){
             mp[inorder[i]] = i;
