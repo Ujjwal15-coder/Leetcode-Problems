@@ -16,7 +16,7 @@ public:
 
         int minDist = INT_MAX;
 
-        int pos = 0;
+        int pos = 1;
 
         int maxDist = -1;
 
@@ -28,7 +28,9 @@ public:
         while(curr -> next != nullptr){
         ListNode* next = curr -> next;
 
-        bool isCritical = ((curr -> val > prev -> val && curr -> val > next -> val) || (curr -> val < prev -> val && curr -> val < next -> val));
+        bool isCritical = ((curr -> val > prev -> val && curr -> val > next -> val) 
+        || 
+        (curr -> val < prev -> val && curr -> val < next -> val));
 
         if(isCritical){
 
