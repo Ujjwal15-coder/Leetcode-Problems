@@ -16,7 +16,7 @@ public:
 
         int minDist = INT_MAX;
 
-        int pos = 1;
+        int pos = 0;
 
         int maxDist = -1;
 
