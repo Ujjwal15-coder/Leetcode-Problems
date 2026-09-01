@@ -1123,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
@@ -1133,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0060-permutation-sequence) |
