@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3783-mirror-distance-of-an-integer](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3830-find-closest-person) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
