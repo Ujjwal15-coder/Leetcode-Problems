@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0622-design-circular-queue](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0523-continuous-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0874-walking-robot-simulation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [0888-fair-candy-swap](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0392-is-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0761-special-binary-string) |
