@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3748-sort-matrix-by-diagonals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -864,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
