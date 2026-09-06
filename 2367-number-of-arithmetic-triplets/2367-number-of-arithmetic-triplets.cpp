@@ -2,6 +2,8 @@ class Solution {
 public:
     int arithmeticTriplets(vector<int>& nums, int diff) {
         //Optimal Solution -> O(n)
+        //Create set → O(n)
+        //Check every x → O(n)
 
         unordered_set<int> st(nums.begin(),nums.end());
 
