@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2906-construct-product-matrix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2906-construct-product-matrix) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
