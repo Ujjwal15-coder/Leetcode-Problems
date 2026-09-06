@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2615-sum-of-distances](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -1019,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1534-count-good-triplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1995-count-special-quadruplets) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2843-count-symmetric-integers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
