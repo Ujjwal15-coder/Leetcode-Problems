@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0493-reverse-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0575-distribute-candies) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0238-product-of-array-except-self](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
