@@ -6,6 +6,7 @@ public:
         int j = n - 1;
 
         while(i < j){
+
             int sum = numbers[i] + numbers[j];
 
             if(sum > target){
