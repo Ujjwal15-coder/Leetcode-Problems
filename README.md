@@ -1441,4 +1441,8 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
