@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0622-design-circular-queue](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0654-maximum-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0682-baseball-game) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0215-kth-largest-element-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0493-reverse-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [0654-maximum-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
 | [0761-special-binary-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0232-implement-queue-using-stacks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0654-maximum-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [1006-clumsy-factorial](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1006-clumsy-factorial) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0084-largest-rectangle-in-histogram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0654-maximum-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1284,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0572-subtree-of-another-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1320,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0572-subtree-of-another-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1445,4 +1451,8 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
