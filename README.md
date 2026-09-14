@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1006-clumsy-factorial](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1006-clumsy-factorial) |
 | [1013-fibonacci-number](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1013-fibonacci-number) |
@@ -1024,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Enumeration
