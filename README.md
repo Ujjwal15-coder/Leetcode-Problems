@@ -1150,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0794-swim-in-rising-water](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1170,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0662-maximum-width-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0794-swim-in-rising-water](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union Find
 |  |
@@ -1306,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1347,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
