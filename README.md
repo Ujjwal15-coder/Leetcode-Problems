@@ -1140,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
@@ -1161,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0279-perfect-squares) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1291,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
@@ -1330,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
@@ -1355,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Game Theory
