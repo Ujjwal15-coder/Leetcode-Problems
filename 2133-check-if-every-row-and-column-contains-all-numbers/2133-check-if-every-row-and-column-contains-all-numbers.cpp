@@ -11,6 +11,11 @@ public:
 
             for(int j = 0; j < m;j++){
 
+                
+                if(matrix[i][j] < 1 || matrix[i][j] > n){
+                    return false;
+                }
+
                 if(st.count(matrix[i][j])){
                     return false;
                 }
@@ -23,6 +28,10 @@ public:
             st.clear();
 
             for(int i = 0; i < n;i++){
+                
+                if(matrix[i][j] < 1 || matrix[i][j] > n){
+                    return false;
+                }
 
                 if(st.count(matrix[i][j])){
                     return false;
