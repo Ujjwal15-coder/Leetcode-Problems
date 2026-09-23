@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2737-row-with-maximum-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2737-row-with-maximum-ones) |
 | [2906-construct-product-matrix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2906-construct-product-matrix) |
