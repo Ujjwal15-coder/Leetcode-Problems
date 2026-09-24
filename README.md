@@ -1490,4 +1490,8 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
