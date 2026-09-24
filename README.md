@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
