@@ -1,5 +1,13 @@
 Select w1.id
 From Weather as w1
 JOIN Weather as w2
-ON DATEDIFF(w1.recordDate,w2.recordDate) = 1
+ON SUBDATE(w1.recordDate,1) = w2.recordDate
 WHERE w1.temperature > w2.temperature;
+
+-- Self-join: Compare rows within the same table.
+
+-- DATEDIFF(): Check the difference between two dates.
+
+-- WHERE: Filter rows based on a condition.
+
+-- w1: Current day; w2: Previous day.
