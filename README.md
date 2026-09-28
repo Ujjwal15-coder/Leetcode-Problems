@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1598-crawler-log-folder](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1598-crawler-log-folder) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Matrix
@@ -944,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1598-crawler-log-folder](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1598-crawler-log-folder) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1619-path-crossing](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1619-path-crossing) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -1486,6 +1488,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Cartesian Tree
 |  |
 | ------- |
