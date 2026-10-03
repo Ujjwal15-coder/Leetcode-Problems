@@ -1501,6 +1501,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0176-second-highest-salary) |
+| [0180-consecutive-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0197-rising-temperature) |
