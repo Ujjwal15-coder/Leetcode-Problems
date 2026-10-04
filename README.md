@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0198-house-robber) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0056-merge-intervals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0128-longest-consecutive-sequence](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -1070,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -1538,4 +1543,8 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
