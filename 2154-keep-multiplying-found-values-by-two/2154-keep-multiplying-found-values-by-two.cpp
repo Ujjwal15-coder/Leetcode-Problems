@@ -7,9 +7,6 @@ public:
             if(nums[i] == original){
                 original = 2*original;
             }
-            else if(nums[i] > original){
-                break;
-            }
         }
         return original;
     }
