@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1288-remove-covered-intervals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1340-jump-game-v) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1046-max-consecutive-ones-iii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1185-find-in-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1288-remove-covered-intervals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1340-jump-game-v) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1402-reducing-dishes) |
@@ -792,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0633-sum-of-square-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -841,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
