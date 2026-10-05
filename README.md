@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0739-daily-temperatures](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0761-special-binary-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0761-special-binary-string) |
 | [0888-fair-candy-swap](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
