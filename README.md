@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0654-maximum-binary-tree](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [1006-clumsy-factorial](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1006-clumsy-factorial) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -943,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0696-count-binary-substrings](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1002-find-common-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1504,6 +1506,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0020-valid-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Cartesian Tree
