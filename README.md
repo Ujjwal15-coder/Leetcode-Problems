@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2463-minimum-total-distance-traveled) |
@@ -1049,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1686-stone-game-vi) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Geometry
 |  |
 | ------- |
