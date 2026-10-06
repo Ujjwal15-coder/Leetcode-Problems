@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0682-baseball-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1006-clumsy-factorial](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1006-clumsy-factorial) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -953,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0761-special-binary-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1002-find-common-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1018,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0561-array-partition](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -1516,6 +1519,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0022-generate-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Cartesian Tree
