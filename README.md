@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Matrix
 |  |
 | ------- |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -1035,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2029-stone-game-ix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -1522,6 +1526,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Cartesian Tree
 |  |
 | ------- |
