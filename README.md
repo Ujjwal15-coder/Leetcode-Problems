@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
@@ -972,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1619-path-crossing](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1619-path-crossing) |
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1388-pizza-with-3n-slices](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1402-reducing-dishes) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1686-stone-game-vi](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1686-stone-game-vi) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1824-minimum-sideway-jumps](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1824-minimum-sideway-jumps) |
@@ -1528,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Cartesian Tree
