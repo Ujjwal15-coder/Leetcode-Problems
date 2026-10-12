@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0004-median-of-two-sorted-arrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0031-next-permutation) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0056-merge-intervals) |
@@ -776,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0027-remove-element) |
