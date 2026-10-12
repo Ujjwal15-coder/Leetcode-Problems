@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0912-sort-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0978-longest-turbulent-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0983-minimum-cost-for-tickets) |
 | [1002-find-common-characters](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1002-find-common-characters) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0888-fair-candy-swap](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [0633-sum-of-square-numbers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
