@@ -18,16 +18,18 @@ public:
                     ans.push_back({nums[i],nums[j],nums[k]});
                     j++;
                     k--;
+                    while(j < k && nums[j] == nums[j-1]) 
+                        j++;
+                    while(j < k && nums[k] == nums[k+1]) 
+                        k--;
                 }
-                if(sum < 0){
+                else if(sum < 0){
                     j++;
                 }
                 if(sum > 0){
                     k--;
                 }
             }
-            if(j < k && nums[j] == nums[j-1]) continue;
-            if(j < k && nums[k] == nums[k+1]) continue;
 
         }
         return ans;
