@@ -23,7 +23,7 @@ public:
                 left++;
             }
 
-            if(height[left] >= height[right]){
+            else{
                 
                 if(height[right] >= rightMax){
                     rightMax = height[right];
