@@ -748,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -883,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2615-sum-of-distances](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -1003,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2573-find-the-string-with-lcp](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2833-furthest-point-from-origin) |
