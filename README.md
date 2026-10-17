@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2737-row-with-maximum-ones](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2737-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -1106,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1925-count-square-sum-triples](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1995-count-special-quadruplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
