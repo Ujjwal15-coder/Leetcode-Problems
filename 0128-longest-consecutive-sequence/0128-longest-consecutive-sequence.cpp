@@ -3,7 +3,7 @@ public:
     int longestConsecutive(vector<int>& nums) {
         int n = nums.size();
         if(n == 0) return 0;
-        
+
         sort(nums.begin(),nums.end());
         int count = 1;
         int longest = 1;
@@ -12,7 +12,7 @@ public:
             if(nums[i] == nums[i-1]){
                 continue;
             }
-            if(nums[i] == nums[i-1]+1){
+            else if(nums[i] == nums[i-1]+1){
                 count++;
             }
             else{
