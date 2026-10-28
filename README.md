@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3748-sort-matrix-by-diagonals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1194,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
