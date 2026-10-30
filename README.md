@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2498-frog-jump-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2498-frog-jump-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2498-frog-jump-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2498-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3161-block-placement-queries](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3161-block-placement-queries) |
@@ -1084,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [2126-destroying-asteroids](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2498-frog-jump-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2498-frog-jump-ii) |
 | [2573-find-the-string-with-lcp](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
