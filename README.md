@@ -1640,6 +1640,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [1907-count-salary-categories](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3436-find-valid-emails](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3436-find-valid-emails) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
