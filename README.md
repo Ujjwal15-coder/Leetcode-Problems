@@ -790,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2810-faulty-keyboard](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2810-faulty-keyboard) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -1027,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! by Ujjwal Srivas
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2573-find-the-string-with-lcp](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2810-faulty-keyboard](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ujjwal15-coder/Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
